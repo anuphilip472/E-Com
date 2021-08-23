@@ -33,7 +33,11 @@ p{
 .container{
     max-width: 1300px;
     margin: auto;
+<<<<<<< HEAD
     /* padding-left: 25px; */
+=======
+    padding-left: 25px;
+>>>>>>> 6746255f7b0ca2eefb492a1d2ab3bbfdc3382da3
     padding-top: 25px;
 }
 .row{
@@ -214,8 +218,11 @@ ul{
     background: #b5b5b5;
     height:1px;
     margin: 20px 0;
+<<<<<<< HEAD
     /* padding: 0; */
 
+=======
+>>>>>>> 6746255f7b0ca2eefb492a1d2ab3bbfdc3382da3
 }
 .copyright{
     text-align: center;
@@ -391,6 +398,7 @@ th:last-child{
         font-size: 26px;
         line-height: 32ppx;
     }
+<<<<<<< HEAD
 }
 
 #footer-content{
@@ -398,4 +406,6 @@ th:last-child{
 }
 .rating-icon{
     max-width: 15px;
+=======
+>>>>>>> 6746255f7b0ca2eefb492a1d2ab3bbfdc3382da3
 }
